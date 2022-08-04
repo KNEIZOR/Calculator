@@ -1,0 +1,13 @@
+.myInput{
+    width: 100%;
+    font-size: 36pt;
+    padding: 15px 10px;
+    text-align: end;
+    background-color: rgb(146, 0, 10);
+    color: white;
+}
+
+.myInput::-webkit-outer-spin-button,
+.myInput::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}

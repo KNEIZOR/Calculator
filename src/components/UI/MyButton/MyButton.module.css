@@ -1,0 +1,14 @@
+.myButton{
+    font-size: 30pt;
+    padding: 30px;
+    background-color: white;
+    border: 1px solid;
+}
+
+.myButton:hover{
+    background-color: gray;
+}
+
+.myButton:active{
+background-color: white;
+}
